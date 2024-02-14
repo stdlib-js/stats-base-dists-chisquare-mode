@@ -69,7 +69,7 @@ where `k >= 0` is the degrees of freedom.
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-mode@v0.2.0-deno/mod.js';
 ```
 
 #### mode( k )
@@ -114,7 +114,7 @@ var v = mode( -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chisquare-mode@v0.2.0-deno/mod.js';
 
 var k;
 var v;
