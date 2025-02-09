@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`911e179`](https://github.com/stdlib-js/stdlib/commit/911e1793885aced96a177f2ea54300503b2c2a26) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`02b9077`](https://github.com/stdlib-js/stdlib/commit/02b907765ad6a6ebcc884f16f2128475ab866814) - **bench:** refactor random number generation in `stats/base/dists/chisquare` [(#4860)](https://github.com/stdlib-js/stdlib/pull/4860) _(by Karan Anand)_
 -   [`292c21e`](https://github.com/stdlib-js/stdlib/commit/292c21e986d7d432d7caee7ce89392e69cd72e5e) - **feat:** add C implementation for `stats/base/dists/chisquare/mode` [(#4002)](https://github.com/stdlib-js/stdlib/pull/4002) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
